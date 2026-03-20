@@ -1,0 +1,21 @@
+bookId,title,author,avg_rating,rating_count,content
+0,The Hobbit,J.R.R. Tolkien,4.28,2800000,hobbit tolkien
+1,Dune,Frank Herbert,4.23,900000,dune frank herbert
+2,1984,George Orwell,4.19,3500000,george orwell
+3,Sapiens,Yuval Noah Harari,4.4,700000,sapiens yuval noah harari
+4,The Name of the Wind,Patrick Rothfuss,4.54,650000,name wind patrick rothfuss
+5,Project Hail Mary,Andy Weir,4.53,400000,project hail mary andy weir
+6,Thinking Fast and Slow,Daniel Kahneman,4.18,500000,thinking fast slow daniel kahneman
+7,The Martian,Andy Weir,4.4,750000,martian andy weir
+8,Ender's Game,Orson Scott Card,4.3,900000,game orson scott card
+9,The Great Gatsby,F. Scott Fitzgerald,3.91,4000000,great gatsby scott fitzgerald
+10,Educated,Tara Westover,4.47,700000,educated tara westover
+11,Gone Girl,Gillian Flynn,3.85,1200000,gone girl gillian flynn
+12,The Alchemist,Paulo Coelho,3.88,2500000,alchemist paulo coelho
+13,Atomic Habits,James Clear,4.37,600000,atomic habits james clear
+14,A Brief History of Time,Stephen Hawking,4.22,500000,brief history time stephen hawking
+15,The Da Vinci Code,Dan Brown,3.73,2000000,da vinci code dan brown
+16,Harry Potter and the Sorcerer's Stone,J.K. Rowling,4.47,8000000,harry potter stone rowling
+17,The Hunger Games,Suzanne Collins,4.33,6000000,hunger games suzanne collins
+18,To Kill a Mockingbird,Harper Lee,4.27,5000000,kill mockingbird harper lee
+19,Brave New World,Aldous Huxley,3.99,1500000,brave new world aldous huxley

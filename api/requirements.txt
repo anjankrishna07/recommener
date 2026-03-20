@@ -1,0 +1,22 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pydantic==2.7.1
+
+# ML
+scikit-learn==1.5.0
+scipy==1.13.1
+numpy==1.26.4
+pandas==2.2.2
+joblib==1.4.2
+
+# NLP
+nltk==3.8.1
+
+# Experiment tracking
+mlflow==2.13.0
+
+# Data fetching (for enrichment)
+requests==2.32.3
+
+# Dev
+python-dotenv==1.0.1

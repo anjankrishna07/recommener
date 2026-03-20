@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Data & models (too large for git — use DVC or store separately)
+backend/data/
+backend/models/
+mlruns/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Env
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
